@@ -11,6 +11,6 @@ Following these talks we will have a Data Visualization workshop. Data Visualiza
 ## What To Do before the meetup
 The simplest way to install Python, and the most popular packages that make up the SciPy stack is with Anaconda, a cross-platform Python distribution for data analytics and scientific computing. Install here https://docs.anaconda.com/anaconda/install/
 
-##Get in touch?
+## Get in touch?
 - Join the PyDataMCR Slack over at buff.ly/2G6epDI
 - More info at our Twitter @PyDataMCR
