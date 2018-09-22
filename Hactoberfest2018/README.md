@@ -8,7 +8,8 @@ Tweet us at [@PyDataMCR](https://twitter.com/PyDataMCR) if you think of any othe
 
 ## Co-Presenters:**
 * [PyLadiesNWUK](https://twitter.com/PyLadiesNWUK)
-* …
+* HER+data MCR [twitter](https://twitter.com/herplusdatamcr), [meetup](https://www.meetup.com/HER-Data-MCR/)  
+* ...
 
 ## Resources
 Meetup event page [link](https://www.meetup.com/PyData-Manchester/events/254560871/)
@@ -22,3 +23,4 @@ If you have never used Git or contributed to Open Source before, we recommend yo
 
 
 ## Our Sponsors for this event
+...
